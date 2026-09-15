@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=m-daniyal-naseer&style=for-the-badge&color=00A3FF&label=PROFILE+VIEWS" alt="profile views" />
+<img src="https://count.getloli.com/get/@m-daniyal-naseer?theme=moebooru" alt="profile views" />
 
 </div>
 
