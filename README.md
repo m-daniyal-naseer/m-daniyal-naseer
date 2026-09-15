@@ -18,7 +18,7 @@
 
 </div>
 
-> If you'd rather have the anime-character counter like the reference profile, that's `count.getloli.com` — swap the img src to `https://count.getloli.com/get/@m-daniyal-naseer?theme=moebooru` once you've registered the username there.
+
 
 ---
 
