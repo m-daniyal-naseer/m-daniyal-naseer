@@ -92,33 +92,7 @@
 
 </div>
 
-> The snake image doesn't generate itself — it needs a GitHub Action running in your profile repo. Add this file at `.github/workflows/snake.yml` in the `m-daniyal-naseer/m-daniyal-naseer` repo:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> permissions:
->   contents: write
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: m-daniyal-naseer
->           outputs: dist/github-contribution-grid-snake-dark.svg
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
----
 
 ## 📂 Featured Projects
 
