@@ -74,11 +74,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-ten-neon-28.vercel.app/api?username=m-daniyal-naseer&show_icons=true&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF&bg_color=0D1117&border_color=161B22&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="github-readme-stats.vercel.app/api?username=m-daniyal-naseer&show_icons=true&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF&bg_color=0D1117&border_color=161B22&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-daniyal-naseer&theme=dark&background=0D1117&stroke=161B22&ring=00A3FF&fire=00A3FF&currStreakLabel=00A3FF" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats-ten-neon-28.vercel.app/api/top-langs/?username=m-daniyal-naseer&title_color=00A3FF&text_color=FFFFFF&bg_color=0D1117&border_color=161B22&layout=compact&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-daniyal-naseer&title_color=00A3FF&text_color=FFFFFF&bg_color=0D1117&border_color=161B22&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
